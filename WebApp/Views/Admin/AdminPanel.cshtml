@@ -1,0 +1,48 @@
+﻿@model IEnumerable<WebApp.ViewModels.UserViewModel>
+
+@{
+    ViewData["Title"] = "Admin Panel";
+}
+
+<h1>Admin Panel</h1>
+
+<p>
+    <a asp-action="CreateNewUser" class="btn btn-primary">
+        Create new user
+    </a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>UserName</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) 
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.UserName</td>
+                <td>@item.Email</td>
+                <td>@item.Role</td>
+                <td>
+                    <form asp-action="EditUser" asp-route-id="@item.Id" method="get" class="d-inline">
+                        <button type="submit" class="btn btn-light btn-sm">
+                            Edit
+                        </button>
+                    </form>
+                    <form asp-action="DeleteUser" asp-route-id="@item.Id" class="d-inline">
+                        <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure to delete this user?');">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>         
+        }
+    </tbody>
+</table>

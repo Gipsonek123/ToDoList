@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T20:58:32.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T20:53:09.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T20:46:44.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:35:37.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
