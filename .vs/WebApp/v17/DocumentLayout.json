@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\views\\admin\\createnewuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\createnewuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|c:\\users\\gipso\\onedrive\\pulpit\\todolist\\webapp\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148DA922-EDBA-433F-B3EF-F249390A895E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +42,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T20:58:32.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T20:53:09.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T20:46:44.649Z",
+              "WhenOpened": "2026-01-07T22:17:36.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T20:35:37.578Z",
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T22:09:22.208Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:08:32.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T22:05:44.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateNewUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Admin\\CreateNewUser.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\CreateNewUser.cshtml",
+              "ToolTip": "C:\\Users\\gipso\\OneDrive\\Pulpit\\ToDoList\\WebApp\\Views\\Admin\\CreateNewUser.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Admin\\CreateNewUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T22:04:24.563Z"
             }
           ]
         },
