@@ -13,16 +13,16 @@
 else
 {
     <div class="flex items-center space-x-4">
-        <a asp-controller="Account"
-           asp-action="Register"
-           class="text-gray-700 hover:text-blue-600 font-medium">
-           Register
-        </a>
+		<a href="/Account/Register"
+		   class="text-gray-700 hover:text-blue-600 font-medium"
+		   data-ajax-link>
+			Register
+		</a>
 
-        <a asp-controller="Account"
-           asp-action="Login"
-           class="text-gray-700 hover:text-blue-600 font-medium">
-           Login
-        </a>
+		<a href="/Account/Login"
+		   class="text-gray-700 hover:text-blue-600 font-medium"
+		   data-ajax-link>
+			Login
+		</a>
     </div>
 }

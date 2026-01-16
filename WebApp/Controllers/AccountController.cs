@@ -32,6 +32,12 @@ namespace WebApp.Controllers
             {
                 return RedirectToAction("Welcome");
             }
+
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+            {
+                return PartialView();
+            }
+
             return View();
         }
 
@@ -80,8 +86,14 @@ namespace WebApp.Controllers
             {
                 return RedirectToAction("Welcome");
             }
+
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+            {
+                return PartialView();
+            }
+
             return View();
-        }     
+        }
 
         [HttpPost]
         [ValidateAntiForgeryToken]

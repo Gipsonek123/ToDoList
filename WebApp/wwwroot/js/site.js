@@ -1,4 +1,32 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿document.addEventListener("click", async function (e) {
+    const link = e.target.closest("[data-ajax-link]");
+    if (!link) return;
 
-// Write your JavaScript code.
+    e.preventDefault();
+
+    const url = link.getAttribute("href");
+
+    const response = await fetch(url, {
+        headers: {
+            "X-Requested-With": "XMLHttpRequest"
+        }
+    });
+
+    if (!response.ok) return;
+
+    const html = await response.text();
+
+    document.getElementById("page-content").innerHTML = html;
+    window.history.pushState({}, "", url);
+});
+
+window.addEventListener("popstate", async () => {
+    const response = await fetch(location.href, {
+        headers: { "X-Requested-With": "XMLHttpRequest" }
+    });
+
+    if (!response.ok) return;
+
+    document.getElementById("page-content").innerHTML =
+        await response.text();
+});
